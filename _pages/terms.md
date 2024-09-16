@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms and conditions
+include_in_header: false
+---
+
 **Terms & Conditions**
 
 These terms and conditions applies to the Wesplit app (hereby referred to as "Application") for mobile devices that was created by Dmitrii Riazantsev (hereby referred to as "Service Provider") as a Free service.

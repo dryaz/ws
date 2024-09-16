@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 **Privacy Policy**
 
 This privacy policy is applicable to the Wesplit app (hereinafter referred to as "Application") for mobile devices, which was developed by Dmitrii Riazantsev (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
