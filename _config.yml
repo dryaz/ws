@@ -50,7 +50,7 @@ features:
 
   - title: Dark and light theme for your convenience
     description: Consistent look and feel with your OS style. Protect your eyes at nighttime.
-    fontawesome_icon_name: circle-half-stroke
+    fontawesome_icon_name: moon
 
   - title: Share track record to your mates
     description: Let your friends link their accounts to creates users in group and help you track.
