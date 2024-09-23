@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/logo.png # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Wesplit - IOU expense tracker # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Write a short tagline for your app.
+app_description: Easily track and settle shared group expenses bills and debts with friends
 
 enable_smart_app_banner: false # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -46,11 +46,11 @@ features:
 
   - title: Offline expense management
     description: Add expenses even on Everest. Data will be secured and sync afterwards.
-    fontawesome_icon_name: internet-explorer
+    fontawesome_icon_name: wifi
 
   - title: Dark and light theme for your convenience
     description: Consistent look and feel with your OS style. Protect your eyes at nighttime.
-    fontawesome_icon_name: star-half-o
+    fontawesome_icon_name: circle-half-stroke
 
   - title: Share track record to your mates
     description: Let your friends link their accounts to creates users in group and help you track.
@@ -85,7 +85,7 @@ device_color: black # Set to: blue, black, yellow, coral or white.
 
 body_background_color: "#ffffff"
 
-link_color: "#1d63ea"
+link_color: "#48B04A"
 
 app_title_color: "#ffffff"
 app_price_color: "#ffffff"
