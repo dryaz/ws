@@ -19,7 +19,8 @@
 	</div>
 	<nav class="scroll">
 		<ul>
-			<li><a href="https://wesplit.prodcamp.com/changelog" target="_blank">What's new</a></li>
+			<li><a href="https://web.wesplit.app" target="_blank">Web App</a></li>
+			<a href="https://faq.wesplit.app/" target="_self">Faq & Support</a>
 			{% for page in site.pages %}
 				{% if page.include_in_header == true %}
 				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
@@ -28,7 +29,6 @@
 			{% if site.presskit_download_link %}
 				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
 			{% endif %}
-			<li><a href="https://web.wesplit.app" target="_blank">Web App</a></li>
 		</ul>
 	</nav>
 </header>
