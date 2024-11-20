@@ -32,8 +32,8 @@ mastodon_link:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Easily add expenses with Magic links!
-    description: Create group. Add some names. Share. That's it! Your friends could add expenses without registration.
+  - title: AI Expense categorization!
+    description: No need to manually define categories! Just add title and Wesplit will define it.
     fontawesome_icon_name: magic
 
   - title: Overview balances with ease
