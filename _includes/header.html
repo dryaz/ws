@@ -19,7 +19,6 @@
 	</div>
 	<nav class="scroll">
 		<ul>
-			<li><a href="https://web.wesplit.app" target="_blank">Web App</a></li>
 			<li><a href="https://faq.wesplit.app/" target="_blank">Faq & Support</a></li>
 			{% for page in site.pages %}
 				{% if page.include_in_header == true %}
@@ -29,6 +28,7 @@
 			{% if site.presskit_download_link %}
 				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
 			{% endif %}
+			<li><a href="https://web.wesplit.app" target="_blank" class="button">Login to WebApp</a></li>
 		</ul>
 	</nav>
 </header>
